@@ -13,6 +13,7 @@ namespace UsageConsole
       var zipcode3 = new ZipCode { Id = "75017" };
       var zipcode4 = new ZipCode { Id = "75020" };
       var zipcode5 = new ZipCode { Id = "12345" };
+      var zipcode6 = new ZipCode { Id = "12345" };
       Console.ReadKey();
     }
   }
